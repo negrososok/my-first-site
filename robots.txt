@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Disallow: /temp/
 Disallow: /private-scripts/
-Sitemap: https://anton-pavliuchenko.github.io/my-portfolio
+Sitemap: https://negrososok.github.io/my-first-site/sitemap.xml
