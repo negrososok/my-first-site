@@ -1,0 +1,6 @@
+# robots.txt
+User-agent: *
+Allow: /
+Disallow: /temp/
+Disallow: /private-scripts/
+Sitemap: https://anton-pavliuchenko.github.io/my-portfolio
